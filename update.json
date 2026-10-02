@@ -2,10 +2,10 @@
   "base": "1.1",
   "platforms": {
     "android": {
-      "patch": 21,
-      "url": "https://github.com/bioverse1/BioVerse-downloads/releases/download/patch-1.1-21/bioverse_android_1.1_recovery21.pck",
-      "sha256": "3633c53fd428e97d1c1c1c9584cb5a740d5bcd435b7be282e9182b53f29ccd40",
-      "size": 34031888
+      "patch": 22,
+      "url": "https://github.com/bioverse1/BioVerse-downloads/releases/download/patch-1.1-22/bioverse_android_1.1_p22.pck",
+      "sha256": "73bc802b35adbbbbd8a06c803e99142854ea03b627115266d4d91c8411cd9340",
+      "size": 53958924
     },
     "windows": {
       "patch": 19,
