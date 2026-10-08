@@ -2,16 +2,16 @@
   "base": "1.1",
   "platforms": {
     "android": {
-      "patch": 26,
-      "url": "https://github.com/bioverse1/BioVerse-downloads/releases/download/patch-1.1-26/bioverse_android_1.1_p26.pck",
-      "sha256": "7355ee5ea9f59aedaa75d79ab47a18f1582fa13b7cac6280db1ae6e546fc103c",
-      "size": 227801408
+      "patch": 27,
+      "url": "https://github.com/bioverse1/BioVerse-downloads/releases/download/patch-1.1-27/bioverse_android_1.1_p27.pck",
+      "sha256": "171cd484a26dacf40e8ea5360bff2cdc251a49f5aaf9f374b956244587bd597d",
+      "size": 236268716
     },
     "windows": {
-      "patch": 26,
-      "url": "https://github.com/bioverse1/BioVerse-downloads/releases/download/patch-1.1-26/bioverse_windows_1.1_p26.pck",
-      "sha256": "7355ee5ea9f59aedaa75d79ab47a18f1582fa13b7cac6280db1ae6e546fc103c",
-      "size": 227801408
+      "patch": 27,
+      "url": "https://github.com/bioverse1/BioVerse-downloads/releases/download/patch-1.1-27/bioverse_windows_1.1_p27.pck",
+      "sha256": "171cd484a26dacf40e8ea5360bff2cdc251a49f5aaf9f374b956244587bd597d",
+      "size": 236268716
     }
   }
 }
